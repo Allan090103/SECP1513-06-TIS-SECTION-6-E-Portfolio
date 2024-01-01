@@ -18,27 +18,36 @@ By the end of this course, you will:
 
 ## 📚 Topics Covered
 
-1. **Introduction to Information Systems**
-   - Definition and components of information systems
+1. **Emerging Technology in ICT**
+   - Definition and components of information systems and new technologies
    - Types of information systems (e.g., transaction processing systems, decision support systems)
 
-2. **Data Management and Database Systems**
+2. **Hardware**
    - Database design and implementation
    - SQL and database query languages
 
-3. **Networking and Communication Technologies**
+3. **Software**
    - Basics of computer networks
    - Internet technologies and protocols
 
-4. **Information Security and Privacy**
-   - Cybersecurity fundamentals
-   - Privacy regulations and compliance
+4. **Information Systems & Methodology**
+   - Methodology of Software Development
+   - Scrums , Waterfall , Agile
+     
 
-5. **Business Process Analysis and Improvement**
-   - Modeling business processes
+5. **Databases and Data Analytics**
+   - Data Bases and Modifications of Data
    - Identifying areas for technological enhancements
 
-6. **Emerging Technologies**
+6. **Networks and Communications**
+   - Understanding the basics and importance of Networks and Communications 
+   - Exploring key principles and foundational elements
+
+7. **Privacy, Security, and Ethics**
+   - Comprehensive understanding of privacy, security, and ethics
+   - Navigate digital landscapes responsibly and safeguard information effectively
+
+8. **Cloud Computing**
    - Cloud computing
    - Artificial intelligence and machine learning in information systems
 
@@ -46,11 +55,11 @@ By the end of this course, you will:
 
 - **Assignments**: Regular assignments to reinforce theoretical concepts.
 - **Group Projects**: Collaborative projects to apply knowledge to real-world scenarios.
-- **Exams**: Midterm and final exams to assess understanding and retention of course material.
+- **Test**: Midterm and final exams to assess understanding and retention of course material.
 
 ## 📖 Resources
 
-- **Textbook**: "Information Systems: A Practical Approach" by John Doe.
+- **Textbook**: Vermaat, M. E., Sebok, S. L., Freund, S. M., Campbell, J. T., & Frydenberg, M. (2017). Discovering computers© 2018: Digital technology, data, and devices. Cengage Learning. USA .
 - **Online Materials**: Supplementary resources available on the course website.
 - **Software Tools**: Access to relevant software tools for practical exercises.
 
