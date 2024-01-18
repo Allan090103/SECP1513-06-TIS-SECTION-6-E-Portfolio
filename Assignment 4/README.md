@@ -1,1 +1,3 @@
+# Reflection on Assignment 4 – Report on Industrial Talk 2
+On the 28th of December 2023 , Miss Qistina Batrisya binti Azman Shah from Credence gave an industrial talk. From the talk, I get to know in details about the  functions of analytics in an IT company such as Credence. I get to know the example of technology used in Credence in the analytics department. I am also exposed to various type of careers and departments in analytics. Overall, it was an interesting and insightful talk as it gives me a little exposure on things that the analytics department does. In the talk , I was also exposed to the working environment in Credence. The talk also gives me a sight of things to look forward in the future if I was to work in the analytics department in an It company. 
 
