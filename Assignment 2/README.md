@@ -3,8 +3,8 @@ On 14th of November I attended an industrial talk from Clarity Techworks Sdn.
 Bhd . During the talk I got a little overview on the types of jobs that are 
 available in the IT department.I also got to learn about the job scopes , 
 requirements and the discipline practices . The talk is very beneficial as it 
-prepares us for future job applications. In the talk I was also given advice on 
-ways to handle our university life and improve our skill sets. Improvement that 
+prepares me for future job applications. In the talk I was also given advice on 
+ways to handle my university life and improve my skill sets. Improvement that 
 could have been made is, the event could have been a little longer since there 
 were lots of questions from the students that could not be covered due the 
 time limit. While doing the poster I also get to learn to use the Canva 
