@@ -1,5 +1,5 @@
 # Reflection on Assignment 2 – Poster on Industrial Talk 1
-On 14 of November we attended an industrial talk from Clarity Techworks Sdn. 
+On 14 of November I attended an industrial talk from Clarity Techworks Sdn. 
 Bhd . During the talk I got a little overview on the types of jobs that are 
 available in the IT department.I also got to learn about the job scopes , 
 requirements and the discipline practices . The talk is very beneficial as it 
