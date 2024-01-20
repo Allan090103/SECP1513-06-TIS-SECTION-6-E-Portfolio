@@ -1,5 +1,5 @@
 # Reflection on Assignment 3 – Video on Virtual Talk and Visit to UTM Digital
-On the 5th Of December 2023 we attended virtual on UTM Digital . From the 
+On the 5th Of December 2023 we attended virtual talk on UTM Digital . From the 
 talk we get a little overview on the functions and departments available in 
 UTM Digital . The virtual talk was very informative as we get in depth detail 
 about UTM Digital and it’s functions. On the 20th December 2023 we visited 
