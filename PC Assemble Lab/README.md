@@ -1,5 +1,5 @@
 # Reflection on the PC Assemble Lab 
-The PC Assemble Lab was fun and exiting at the same time. It was the first time I had experience with PC during the lab.
+The PC Assemble Lab was fun and exciting at the same time. It was the first time I had experience with PC during the lab.
 The lab assitants there were super friedly and helpful. They guide us step by step on way to disassemble and reassemble the PC.
 During the lab I was introduced to different parts of the PC and the functions of each parts.
 The lab was supper beneficial as it gives a little introduction to PC building experince.
