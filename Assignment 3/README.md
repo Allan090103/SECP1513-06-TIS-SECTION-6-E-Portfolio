@@ -12,5 +12,5 @@ about UTM Digital . From this assignment we are able to learn to use all
 sorts of different software to create a video regarding the virtual talk and 
 the visit .
 
-Video link : 
+Video on UTM Digital visit link : 
 https://youtu.be/BobQwA0PrwQ?si=FghTwBsTK7VQ8UFE
